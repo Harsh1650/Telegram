@@ -1,5 +1,5 @@
 from telebot.async_telebot import AsyncTeleBot
-bot = AsyncTeleBot('5904051369:AAFhqvfLPy1A5WhvDPYTZTDe46eIIG84PY0')
+bot = AsyncTeleBot('API')
 
 
 
