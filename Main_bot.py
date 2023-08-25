@@ -8,7 +8,7 @@ from llama_cpp import Llama
 
 from telebot.async_telebot import AsyncTeleBot
 import asyncio
-bot = AsyncTeleBot('5904051369:AAFhqvfLPy1A5WhvDPYTZTDe46eIIG84PY0')
+bot = AsyncTeleBot('API')
 
 llm = Llama(model_path="C:\kandikits\gpt4all-content-generator\gpt4all-content-generator\models\gpt4all-lora-quantized-ggml.bin", seed=0)
 
